@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pr.2</string>
+    <string name="go_to_secondactivity">Go to SecondActivity</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="Name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="group_number">Group Number</string>
+    <string name="age">Age</string>
+    <string name="grade">"Grade: "</string>
+    <string name="grade_s">Grade</string>
+    <string name="go_to_second_activity_m">Go to Second Activity</string>
+</resources>
