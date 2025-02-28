@@ -9,4 +9,5 @@
     <string name="grade">"Grade: "</string>
     <string name="grade_s">Grade</string>
     <string name="go_to_second_activity_m">Go to Second Activity</string>
+    <string name="go_to_second_activity_declarative">Go to second Activity (Declarative)</string>
 </resources>
